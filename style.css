@@ -11,7 +11,7 @@ body {
 
 .container {
     text-align: center;
-    background: rgba(0, 0, 0, 0.6); /* Dunkler Hintergrund für Lesbarkeit */
+    background: rgba(0, 0, 0, 0.6);
     padding: 40px;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -23,7 +23,7 @@ h1 {
     font-size: 2rem;
 }
 
-.profilbild {
+.profilepic{
     width: 120px;
     height: 120px;
     border-radius: 50%;
